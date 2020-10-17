@@ -1,2 +1,2 @@
 # soal-3
-soal 3
+contoh program memakai datagrid
